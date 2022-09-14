@@ -63,7 +63,7 @@ cd upgrades
 Or, you can clone from source:
 
 ```bash
-git clone https://github.com/PatrickAlphaC/upgrades-mix
+git clone https://github.com/max-clinch/Upgrades-Mix.git
 cd upgrades-mix
 ```
 
